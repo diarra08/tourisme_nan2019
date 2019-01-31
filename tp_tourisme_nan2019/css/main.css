@@ -1,0 +1,102 @@
+
+html, body
+{
+    background-color: #d4d4d8;
+    font-family: cursive;
+}
+
+.p_text
+{
+    font-size: 1.5em;
+    text-align: justify;
+}
+/* css du slide################################################ */
+
+.slide_text
+{
+    margin-right: 36%;
+    margin-bottom: 12%;
+    font-size: 2em;
+    color: red;
+}
+
+ /* flogo#################################################### */
+.logo
+{
+margin-left: 36%;
+}
+
+ /* fond de couleur####################################### */
+ .navigation
+ {
+     margin-top: 3%;
+     margin-left: 5%;
+ }
+
+ .nav_deplacer
+ {
+    margin-right: 5%;
+ }
+ 
+ .navbar {
+    font-weight: bold;
+    margin-bottom: 0;
+    margin-top: 0;
+    background-color: rgb(31, 29, 29);
+    border: 0;
+    font-size: 1.2em !important;
+    letter-spacing: 9px;
+    opacity:0.9; 
+}
+
+/* ajout de la couleur##################################### */
+.navbar li a, .navbar .navbar-brand {
+    color: white !important;
+}
+
+/* survol################################################## */
+.navbar-nav li a:hover {
+    color: blue !important;
+}
+
+/* Lien actif##############################################*/
+.navbar-nav li.active a {
+    color: red;
+    background-color:#29292c;
+}
+
+/* ####################################################### */
+.navbar-default .navbar-toggle {
+    border:3px solid red;
+}
+
+/* Dropdown############################################### */
+.open .dropdown-toggle {
+    color: rgb(245, 9, 9) ;
+    background-color: rgb(242, 10, 10);
+}
+
+/* Dropdown liens######################################### */
+.dropdown-menu li a {
+    color: rgb(110, 106, 106);
+}
+
+/* ####################################################### */
+.dropdown-menu li a:hover {
+    background-color: rgb(95, 89, 89);
+} 
+
+/* BODY ####################################################### */
+
+.img
+{
+    left: 50%;
+}
+
+.img_rond
+{
+    border-radius: 100%;
+}
+
+
+
